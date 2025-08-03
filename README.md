@@ -20,8 +20,7 @@ This project implements a CNN model that can accurately distinguish between imag
 The dataset used for training and testing is **not included in this repository** due to size constraints.
 
 📥 You can download the dataset manually from the following link:
-
-👉 [Download Dataset]((https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD))
+https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
 
 After downloading:
 - Place `input.csv` and `input_test.csv` inside the `DataSet/` folder (create it if it doesn’t exist).
